@@ -14,7 +14,7 @@
 @property (nonatomic, weak) BNRItem * container;
 
 @property (nonatomic) NSString * itemName;
-@property (nonatomic) NSString * serialNumber;
+@property (nonatomic) NSString * serialNumber; 
 @property (nonatomic) int valueInDollars;
 @property (nonatomic, readonly, strong) NSDate * dateCreated;
 
