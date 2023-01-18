@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface BNRHypnosisView : UIView
 
 @property (nonatomic, strong) UIColor* circleColor;
